@@ -8,8 +8,7 @@ Original file is located at
 
 # Laboratory Lecture C #
 
-This lab-lecture builds on the theory of classification covered in the class lectures by allowing me to talk more about it and to show you how you can do these things in Python. Specifically, this looks at how to perform tree classification, how to calcuate accuracy, how to plot the tree, and the effects of tree depth on accuracy.
-
+This lab builds on the theory of classification.
 &nbsp;
 &nbsp;
 &nbsp;
